@@ -10,7 +10,7 @@
 
 ### 1. Project basic information
 - CS 5610 Project 1
-- Project Objective: Develop an personal website using HTML5, CSS, Bootstrap and Javascript.
+- Project Objective: Develop my very first personal website.
 - Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/
 - Professor: John Alexis Guerra Gómez
 - Video Demo: https://youtu.be/KaUHjggf6tM 
